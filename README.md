@@ -8,7 +8,7 @@ gene-function network. Uses tiny CSVs you can load locally or on Neo4j Aura.
 The work showcased:
 
 **Slide Deck**
-- [![Slide preview](slides/neo4j-architecture-diagram.png)](slides/GraphDatabasePresentation.pdf)
+- [![Slide preview](slides/neo4jPreview.jpg)](slides/GraphDatabasePresentation.pdf)
 - [neo4j Repo](https://github.com/neo4j/neo4j)
 
 ## Contents
