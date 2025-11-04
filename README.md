@@ -1,6 +1,6 @@
 # Graph Database for Target Discovery
 
-Toy Neo4j project showing how CRISPR screen signals + pathway knowledge form a
+Example Neo4j project showing how CRISPR screen signals + pathway knowledge form a
 gene-function network. Uses tiny CSVs you can load locally or on Neo4j Aura.
 
 ## Contents
