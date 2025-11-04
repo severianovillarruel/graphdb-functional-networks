@@ -1,7 +1,14 @@
 # Graph Database for Target Discovery
 
+## Background & Slide Deck
+
 Example Neo4j project showing how CRISPR screen signals + pathway knowledge form a
 gene-function network. Uses tiny CSVs you can load locally or on Neo4j Aura.
+
+The work showcased:
+
+**Slide Deck**
+- [GraphDB Presentation](https://docs.google.com/presentation/d/1jEPNx5okzBY6yFYrrXUXGa6a3MDJX1tNxsX03oNLOBM/edit?usp=sharing)
 
 ## Contents
 - `data/genes.csv` — gene nodes
